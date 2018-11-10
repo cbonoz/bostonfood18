@@ -1,4 +1,4 @@
-,year,Item Description,index,PO Number,PO Line #,Ordered Quantity,Received Quantity,Weight (LB),Variance (Quantity),Estimate Inventory Cost,Actual Inventory Cost,Variance (Inventory Cost),Estimate Add-on Cost,Actual Add-on Cost,Variance (Add-on Cost),price
+,year,Item Description,index,PO Number,PO Line #,Ordered Quantity,Received Quantity,Weight (LB),Variance (Quantity),Estimate Inventory Cost,Actual Inventory Cost,Variance (Inventory Cost),Estimate Add-on Cost,Actual Add-on Cost,Variance (Add-on Cost),Price per Case ($)
 0,2014,Apple McIntosh 88s,87.9,1337.9,1.5,126.0,121.6,0.0,-1.048,2971.5799999999995,2971.5799999999995,0.0,138.262,138.262,0.0,24.545
 1,2014,Apple McIntosh ECO 100s,1669.5,1038.3,4.6,21.6,21.6,0.0,0.0,476.0,475.9,-0.065,21.52,21.52,0.0,25.083333333333336
 2,2014,Apple McIntosh ECO 140s,1703.0,1104.857142857143,5.0,4.285714285714286,4.285714285714286,0.0,0.0,109.28571428571429,109.28571428571429,0.0,24.608571428571427,24.608571428571427,0.0,25.5

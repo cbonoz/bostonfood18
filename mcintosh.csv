@@ -1,4 +1,4 @@
-,Itemcode,Item Description,Brand,Pack-size,Vendor ID,Receive Date,PO Number,PO Line #,Ordered Quantity,Order UOM,Received Quantity,Rec. UOM,Weight (LB),Variance (Quantity),Estimate Inventory Cost,Actual Inventory Cost,Variance (Inventory Cost),Estimate Add-on Cost,Actual Add-on Cost,Variance (Add-on Cost),price
+,Itemcode,Item Description,Brand,Pack-size,Vendor ID,Receive Date,PO Number,PO Line #,Ordered Quantity,Order UOM,Received Quantity,Rec. UOM,Weight (LB),Variance (Quantity),Estimate Inventory Cost,Actual Inventory Cost,Variance (Inventory Cost),Estimate Add-on Cost,Actual Add-on Cost,Variance (Add-on Cost),Price per Case ($)
 8,APP1,Apple McIntosh 80s,,,BHO,10/09/2015,2819,1,126,CS,126,CS,0.0,0.0,2898.0,2898.0,0.0,157.5,157.5,0.0,23.0
 9,APP1,Apple McIntosh 80s,,,BHO,11/02/2015,2970,1,42,CS,42,CS,0.0,0.0,966.0,966.0,0.0,52.5,52.5,0.0,23.0
 10,APP1,Apple McIntosh 80s,,,BHO,11/09/2015,2990,1,84,CS,84,CS,0.0,0.0,1932.0,1932.0,0.0,105.0,105.0,0.0,23.0
