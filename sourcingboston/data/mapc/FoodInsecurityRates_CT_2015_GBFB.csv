@@ -1,0 +1,38 @@
+orderid,name,alias,details
+1,join_key,"Geographic Identifier",ct10_id
+2,title,Title,"Food Insecurity rates and Meal Gap"
+3,alt_title,"Alternate Title",
+4,tbl_table,"Table Name",health_food_insecurity_omad_ct
+5,tbl_num,"Table number from source data",
+6,geography,"Spatial Geography","Eastern MA Census 2010 Tracts"
+7,descriptn,Description,"Food Insecurity rates and Meal Gap information from the Greater Boston Food Bank and Feeding America"
+8,datesavail,"Dates Available",2015
+9,coverage,Coverage,"Eastern Massachusetts"
+10,universe,Universe,Population
+11,creator,Creator/Source,"Greater Boston Food Bank and Feeding America"
+12,publisher,Publisher,MAPC
+13,contributr,Contributors,
+14,createdate,CreationDate,
+15,moddate,ModificationDate,2018-03
+16,ct10_id,"Census 2010 Tract  ID",
+17,municipal,Municipality,
+18,nhd,Neighborhood,"Local Neighborhood Name. Boston based on 21 neighborhoods"
+19,county,"County Name","Name of MA county the tract is within."
+20,years,"Report Year","Year of the Report"
+21,pop,Population,"2011-15 5 year avg ACS data"
+22,fi_p,"Food Insecurity",
+23,unemp_p,"Unemployment Rate","1 year county estimates from 2015"
+24,pov_p,"Poverty Rate","2011-15 5 year avg ACS data S1701 "
+25,mhi,"Median Household Income","2011-15 5 year avg ACS data B19013 "
+26,aa_p,"%  Black or African American Population","2011-15 5 year avg ACS data DP05. Black or African American alone or in combination with one or more other races"
+27,lat_p,"% Hispanic or Latino Population","2011-15 5 year avg ACS data DP05. Hispanic or Latino"
+28,homeown_p,"Homeownership Rate","2011-15 5 year avg ACS data DP04"
+29,fi_num,"Food Insecure Individuals",
+30,snapbelowp,"% below SNAP threshold of 200% poverty",
+31,snapabovep,"% above SNAP threshold of 200% poverty",
+32,cost_index,"Cost-of-food index",
+33,short_week,"Weekly food-budget shortfall per Food Insecure Individual",
+34,short_year,"Total food-budget shortfall reported by the Food Insecure Individual",
+35,weightcost,"Weighted cost per meal",
+36,meal_gap,"The Meal Gap",
+37,omad_goal,"1 Meal A Day Goal",
