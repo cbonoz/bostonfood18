@@ -1,8 +1,8 @@
 # bostonfood18
-
-
+Team McIntosh
 ---
 
-
-
-## Notes:
+# Slides
+<pre>
+     jupyter nbconvert RedTomato.ipynb --to slides --post serve
+</pre>
